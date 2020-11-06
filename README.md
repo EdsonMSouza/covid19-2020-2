@@ -12,6 +12,7 @@
 * **SEGUNDA-FEIRA**
   + **Manhã**
     + [Aprendizado de Máquina](https://github.com/EdsonMSouza/seg_manha_ml)
+    + Projeto (Apoio)
   + **Noite**
     + [Projeto Prático de Sistemas Aplicados a Negócios](https://github.com/EdsonMSouza/2_noite_projeto) (Pré-aula)
     + [Análise de Viabilidade](https://github.com/EdsonMSouza/seg_noite_viabilidade)
@@ -25,11 +26,11 @@
 * **QUARTA-FEIRA**
   + **Manhã**
     + [Sistemas Distribuídos](https://github.com/EdsonMSouza/qua_manha_sis_dist)
+    + Projeto de Sistema de Gestão de Segurança da Informação (Apoio)
   + **Noite**
-    + [Projeto Prático em Sistemas](https://github.com/EdsonMSouza/projeto_4_noite) (Pré-aula) 
     + [Desenvolvimento de Aplicativos Móveis Híbridos](https://github.com/EdsonMSouza/qua_noi_mobile)
   
- * **QUINTA-FEIRA**
+  * **QUINTA-FEIRA**
   + **Manhã**
     + [Sistemas Distribuídos](https://github.com/EdsonMSouza/qui_manha_sis_dist)
   + **Noite**
@@ -40,4 +41,5 @@
   + **Manhã**
     + [Modelagem de Processos de Negócios](https://github.com/EdsonMSouza/6_manha_bpm)
   + **Noite**
+    + Projeto Prático em Sistemas (Apoio)
     + [Sistemas Distribuídos](https://github.com/EdsonMSouza/6_noite_sis_dist) 
