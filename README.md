@@ -30,7 +30,7 @@
   + **Noite**
     + [Desenvolvimento de Aplicativos Móveis Híbridos](https://github.com/EdsonMSouza/qua_noi_mobile)
   
-  * **QUINTA-FEIRA**
+* **QUINTA-FEIRA**
   + **Manhã**
     + [Sistemas Distribuídos](https://github.com/EdsonMSouza/qui_manha_sis_dist)
   + **Noite**
