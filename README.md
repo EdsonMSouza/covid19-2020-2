@@ -37,7 +37,7 @@
     + [Projeto em Computação Aplicada](https://github.com/EdsonMSouza/projeto_5_noite) (Pré-aula) 
     + [Arquitetura de Software](https://github.com/EdsonMSouza/5_noite_arquitetura) 
 
- * **SEXTA-FEIRA**
+* **SEXTA-FEIRA**
   + **Manhã**
     + [Modelagem de Processos de Negócios](https://github.com/EdsonMSouza/6_manha_bpm)
   + **Noite**
