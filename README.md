@@ -14,7 +14,7 @@
     + [Aprendizado de Máquina](https://github.com/EdsonMSouza/seg_manha_ml)
     + Projeto (Apoio)
   + **Noite**
-    + [Projeto Prático de Sistemas Aplicados a Negócios](https://github.com/EdsonMSouza/2_noite_projeto) (Pré-aula)
+    + [Projeto Prático de Sistemas Aplicados a Negócios](https://github.com/EdsonMSouza/2_noite_projeto) (Finalizado)
     + [Análise de Viabilidade](https://github.com/EdsonMSouza/seg_noite_viabilidade)
 
 * **TERÇA-FEIRA**
